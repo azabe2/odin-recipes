@@ -17,17 +17,17 @@ body {
     display: inline-flex;
    }
 .low-fat-burger {
-    display: block;
+    box-sizing: border-box;
     width:200px;
     height: 200px;
     text-align: center;
     background-image: url(img/beefburger.jpeg);
     background-repeat: no-repeat;
-    background-size: 150px;
-    background-color: black;
+    background-size: cover;
     border: 0.2em solid black;
     padding: 1em;
-    margin: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
 }
 h3 {
     margin-block-start: 0.5em;
