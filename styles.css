@@ -17,10 +17,8 @@ body {
     display: inline-flex;
    }
 .low-fat-burger {
-    width:fit-content;
+    width:200px;
     height: auto;
-    border: 2px black;
-    padding:1em;
     text-align: center;
     background-image: url(img/beefburger.jpeg);
 }
