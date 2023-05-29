@@ -9,6 +9,7 @@ body {
     padding: 1em;
     background-color: rgb(111, 184, 22);
 }
-.home {
+.home-button.jpg {
     width: 10px;
+    height: auto;
 }
