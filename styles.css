@@ -11,4 +11,5 @@ body {
 }
 .home {
     width: 50px;
+    box-sizing: border-box;
 }
