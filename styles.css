@@ -18,7 +18,9 @@ body {
    }
 .low-fat-burger {
     width:200px;
-    height: auto;
+    height: 200px;
     text-align: center;
     background-image: url(img/beefburger.jpeg);
+    border: 3px black;
+    padding: 2px;
 }
