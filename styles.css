@@ -13,6 +13,8 @@ body {
    width: 50px;
    height: auto;
 }
-.recipe_list {
+.recipe-list {
     display: inline-flex;
+    padding: 1em;
+    border: 2px black;
 }
