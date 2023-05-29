@@ -13,3 +13,6 @@ body {
    width: 50px;
    height: auto;
 }
+.recipe_list {
+    display: inline-flex;
+}
