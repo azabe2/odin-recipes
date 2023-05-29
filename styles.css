@@ -24,7 +24,11 @@ body {
     background-image: url(img/beefburger.jpeg);
     background-repeat: no-repeat;
     background-size: 150px;
-    border: 1em black;
+    background-color: black;
+    border: 0.2em solid black;
     padding: 1em;
     margin: 1em;
+}
+h3 {
+    margin-block-start: 0.5em;
 }
