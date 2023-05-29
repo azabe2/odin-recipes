@@ -15,6 +15,5 @@ body {
 }
 .recipe-list {
     display: inline-flex;
-    padding: 1em;
-    border: 2px black;
-}
+    margin: 1em;
+   }
