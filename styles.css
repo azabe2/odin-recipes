@@ -22,6 +22,7 @@ body {
     height: 200px;
     text-align: center;
     background-image: url(img/beefburger.jpeg);
-    border: 3px black;
-    padding: 2px;
+    border: 1em black;
+    padding: 1em;
+    margin: 1em;
 }
