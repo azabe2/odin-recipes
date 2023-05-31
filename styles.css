@@ -14,7 +14,16 @@ body {
    height: auto;
 }
 .recipe-list {
-    display: inline-block
+    display: inline-block;
+    align-items: center;
+    box-sizing: border-box;
+    width:200px;
+    height: 200px;
+    text-align: center;
+    border: 0.2em solid black;
+    padding: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
 }
 .low-fat-burger {
     background-image: url(img/beefburger.jpeg);
