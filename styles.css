@@ -1,36 +1,51 @@
 body {
-    background-color: rgb(247, 247, 247);
+    background-color: rgba(221, 183, 183, 0.719);
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
 .recipes {
-    border: 5px solid black;
-    padding: 1em;
-    background-color: rgb(111, 184, 22, 0.6);
+    background-color: rgb(183, 207, 207);
+    padding: 0.6em;
+    margin-bottom: 0.6em;
 }
 #home {
    width: 50px;
    height: auto;
 }
 .recipe-list {
-    display: inline-flex;
-    display: block;
+    height: 200px;
+    display: flex;
+    text-align: center;
+    margin-bottom: 0.6em;
+    align-content: center;
 }
 .low-fat-burger {
-    background-image: url(img/beefburger.jpeg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    align-items: center;
-    box-sizing: border-box;
-    width:200px;
-    height: 200px;
-    text-align: center;
+    width: 200px;
+    margin-inline-end: 0.6em;
     border: 0.2em solid black;
     padding: 1em;
-    margin-right: 1em;
-    margin-bottom: 1em;
+    background-image: url(img/beefburger.jpeg);
+    background-size: cover;
 }
+.pancakes {
+    width: 200px;
+    margin-inline-end: 0.6em;
+    border: 0.2em solid black;
+    padding: 1em;
+    background-image: url(img/pancakes.jpg);
+    background-size: cover;
+}
+.banana-bread {
+    width: 200px;
+    margin-inline-end: 0.6em;
+    border: 0.2em solid black;
+    padding: 1em;
+    background-image: url(img/chocolate-banana-bread.jpg);
+    background-size: cover;
+}
+
 h3 {
-    margin-block-start: 0.5em;
+    margin-top: 0.1em;
+    margin-bottom: 0.8em;
 }
