@@ -14,7 +14,8 @@ body {
    height: auto;
 }
 .recipe-list {
-    display: inline-flexbox;
+    display: inline-flex;
+    display: block;
 }
 .low-fat-burger {
     background-image: url(img/beefburger.jpeg);
