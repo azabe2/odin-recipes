@@ -15,6 +15,16 @@ body {
 }
 .recipe-list {
     display: inline-flex;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    width:200px;
+    height: 200px;
+    text-align: center;
+    border: 0.2em solid black;
+    padding: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
    }
 .low-fat-burger {
     display: flex;
